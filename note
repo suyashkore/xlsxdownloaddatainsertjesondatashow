@@ -1,0 +1,5 @@
+1. cd EncureIT
+2. php artisan migrate
+3. php artisan Serve
+url :- http://127.0.0.1:8000/demo-form
+url :- http://127.0.0.1:8000/show-names 
